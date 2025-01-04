@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Tadios Welday] and I'mI am a committed full time student pursuing a Bachelor of Science in Cybersecurity and Information Assurance </h2>
+<h2 align="left">Hi 👋! My name is [Tadios Welday] and I'm  a committed full time student pursuing a Bachelor of Science in Cybersecurity and Information Assurance </h2>
 
 ###
 
