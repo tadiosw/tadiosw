@@ -1,6 +1,66 @@
-<h2 align="left">Hi 👋! My name is [Tadios Welday] and I'm  a committed full time student pursuing a Bachelor of Science in Cybersecurity and Information Assurance </h2>
+<h1>Hi, I'm Tadios!</a>😄</h1>
 
-###
+Checkout some of the exciting projects I've been working on!
+
+<h2>📶🖥️ Cloud/Network Projects:</h2>
+
+- <b>Networks in Azure</b>
+  - [
+  - [
+  - [
+  - [
+  - [)
+  - [
+  - [
+
+<h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
+
+- <b>Security in Azure</b>
+  - []
+  - []
+  - [()
+  - [()
+  - [()
+  - []()
+
+---
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/saul-farias-74a92b255](https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
