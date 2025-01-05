@@ -5,23 +5,23 @@ Checkout some of the exciting projects I've been working on!
 <h2>📶🖥️ Cloud/Network Projects:</h2>
 
 - <b>Networks in Azure</b>
-  - [
-  - [
-  - [
-  - [
-  - [)
-  - [
-  - [
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 <h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
 - <b>Security in Azure</b>
-  - []
-  - []
-  - [()
-  - [()
-  - [()
-  - []()
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 ---
 <h2>🤳Connect with me:</h2>
