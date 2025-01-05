@@ -31,7 +31,7 @@ Checkout some of the exciting projects I've been working on!
 
 
 
-[linkedin]: www.linkedin.com/in/saul-farias-74a92b255](https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
+[linkedin]: https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
 
 
 
