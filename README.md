@@ -24,7 +24,7 @@ Checkout some of the exciting projects I've been working on!
   - 
 
 <h2> 👨🏻‍💻🐍 Coding/Freelance Projects:</h2>
-  - 
+- </b> Python <b/>
   - 
   - 
   - 
