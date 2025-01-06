@@ -28,7 +28,7 @@ Checkout some of the exciting projects I've been working on!
 - <b>Python🐍</b>
   - 
   - 
--<b>Java｡🇯‌🇸‌</b>
+- <b>Java｡🇯‌🇸‌</b>
   - 
   - 
   - 
