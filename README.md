@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tadios!</a>😄</h1>
+<h1>Hello, I'm Tadios!</a>👾</h1>
 
 Checkout some of the exciting projects I've been working on!
 
@@ -8,7 +8,7 @@ Checkout some of the exciting projects I've been working on!
   - 
   - 
   - 
-  - 
+- <b>osTicket (Help Desk Ticketing System)</b>
   - 
   - 
   - 
@@ -26,7 +26,7 @@ Checkout some of the exciting projects I've been working on!
 <h2> 👨🏻‍💻⌨️ Coding/Freelance Projects:</h2>
 
 - <b>Python🐍</b>
-  - 
+  - [Simple to do list app](https://github.com/tadiosw/-simple-to-do-list-app)
   - 
 - <b>Java｡🇯‌🇸‌</b>
   - 
