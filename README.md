@@ -24,12 +24,18 @@ Checkout some of the exciting projects I've been working on!
   - 
 
 <h2> 👨🏻‍💻🐍 Coding/Freelance Projects:</h2>
-- </b>Python <b/>
-  
+
+- <b>Security in Azure</b>
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 
 
-
+ 
 ---
 <h2>🤳Connect with me:</h2>
 
