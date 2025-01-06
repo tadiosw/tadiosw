@@ -36,6 +36,7 @@ Checkout some of the exciting projects I've been working on!
 ---
 <h2>🤳Connect with me:</h2>
 
+[linkedin]: https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
 
 
 
@@ -48,7 +49,6 @@ Checkout some of the exciting projects I've been working on!
 
 
 
-[linkedin]: https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
 
 
 
