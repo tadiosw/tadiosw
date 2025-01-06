@@ -23,6 +23,16 @@ Checkout some of the exciting projects I've been working on!
   - 
   - 
 
+<h2> 👨🏻‍💻🐍 Coding/Freelance Projects:</h2>
+  - 
+  - 
+  - 
+  - 
+  - 
+  -
+
+
+
 ---
 <h2>🤳Connect with me:</h2>
 
