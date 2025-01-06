@@ -37,17 +37,11 @@ Checkout some of the exciting projects I've been working on!
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][[linkedin]https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard
-]:
+[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][[linkedin]https://www.linkedin.com/in/tadios-welday-b623362b6/?trk=opento_sprofile_topcard]:
 
 
 
 
-
-
-
-
-[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 
 
