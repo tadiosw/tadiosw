@@ -7,11 +7,12 @@ Checkout some of the exciting projects I've been working on!
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tadiosw/Implementing-AD-on-Premises-on-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tadiosw/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
+  - [Network File Shares and Permissions](https://github.com/tadiosw/Network-File-Shares-and-Permissions)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - 
-  - 
-  - 
+  - [osTicket: Prerequisites and Installation](https://github.com/tadiosw/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/tadiosw/osTicket-Post-Installation-Configuration/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/tadiosw/osTicket-Ticket-Lifecycle-Examples/blob/main/README.md)
 
 <h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
