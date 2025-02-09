@@ -5,9 +5,9 @@ Checkout some of the exciting projects I've been working on!
 <h2>📶🖥️ Cloud/Network Projects:</h2>
 
 - <b>Networks in Azure</b>
-  - 
-  - 
-  - 
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tadiosw/Implementing-AD-on-Premises-on-Azure)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tadiosw/NSG-and-Inspecting-Traffic-Between-Azure-VMs)
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - 
   - 
@@ -28,7 +28,7 @@ Checkout some of the exciting projects I've been working on!
 - <b>Python🐍</b>
   - [Simple to do list app](https://github.com/tadiosw/-simple-to-do-list-app)
   - 
-- <b>Java｡🇯‌🇸‌</b>
+- <b>Java‌</b>
   - 
   - 
   - 
