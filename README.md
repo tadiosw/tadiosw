@@ -14,7 +14,7 @@ Checkout some of the exciting projects I've been working on!
   - [osTicket: Post-Installation Configuration](https://github.com/tadiosw/osTicket-Post-Installation-Configuration/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tadiosw/osTicket-Ticket-Lifecycle-Examples/blob/main/README.md)
 
-<h2> 🔐🪪 Cloud/Cybersecurity Projects:</h2>
+<h2> 👨‍💻 Cyber Security Projects::</h2>
 
 - <b>Security in Azure</b>
   - 
