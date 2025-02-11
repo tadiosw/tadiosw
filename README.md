@@ -37,36 +37,11 @@ Checkout some of the exciting projects I've been working on!
 ---
 <h2>🤳Connect with me:</h2>
 
-
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 
 
 [linkedin]:https://www.linkedin.com/in/tadios-welday-b623362b6/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -112,19 +87,4 @@ Checkout some of the exciting projects I've been working on!
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=CompTIA+&logo=certified&label=&color=2F4F4F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CompTIA+ logo" />
-  <img src="https://img.shields.io/static/v1?message=CCNA&logo=cisco&label=&color=1BA0D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cisco logo" />
-  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazon&label=&color=FF9900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="AWS logo" />
-</div>
-
-<br clear="both">
-
 
