@@ -13,6 +13,10 @@ Checkout some of the exciting projects I've been working on!
   - [osTicket: Prerequisites and Installation](https://github.com/tadiosw/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/tadiosw/osTicket-Post-Installation-Configuration/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tadiosw/osTicket-Ticket-Lifecycle-Examples/blob/main/README.md)
+    
+- <b>Virtual Private Network</b>
+  - [VPN Setup in a Virtual Machine ](https://github.com/tadiosw/Setting-UP-A-VPN)
+
 
 <h2> 👨‍💻 Cyber Security Projects::</h2>
 
@@ -23,6 +27,11 @@ Checkout some of the exciting projects I've been working on!
   - 
   - 
   - 
+
+
+
+
+
 
 <h2> 👨🏻‍💻⌨️ Coding/Freelance Projects:</h2>
 
